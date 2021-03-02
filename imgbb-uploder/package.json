@@ -58,7 +58,7 @@
   "files": [
     "lib/**/*"
   ],
-  "homepage": "https://github.com/TheRealBarenziah/imgbb-uploader#readme",
+  "homepage": "https://github.com/BOTV6/Abay#readme",
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged"
@@ -76,7 +76,7 @@
   "name": "imgbb-uploader",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheRealBarenziah/imgbb-uploader.git"
+    "url": "git+https://github.com/BOTV6/Abay"
   },
   "scripts": {
     "build": "node rebuild.js && tsc -p tsconfig-cjs.json",
